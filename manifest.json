@@ -1,0 +1,10 @@
+{
+  "domain": "kajaszo_waste",
+  "name": "Kajászó Waste Schedule(2026)",
+  "version": "1.0.0",
+  "documentation": "https://github.com/constantin1201/kajaszo-hulladek/",
+  "requirements": [],
+  "codeowners": [],
+  "config_flow": true,
+  "iot_class": "local_polling"
+}
